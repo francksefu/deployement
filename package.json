@@ -2,7 +2,7 @@
   "name": "math-br",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/deployement",
+  "homepage": "https://francksefu.github.io/deployement",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
